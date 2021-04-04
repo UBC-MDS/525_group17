@@ -8,7 +8,7 @@ The challenge of this project is that the [dataset](https://figshare.com/article
 
 # Loading Data and EDA
 
-[This notebook](https://github.com/UBC-MDS/525_group17/blob/main/notebooks/Milestone1_tk.ipynb) contains code to load and combine data. Simple EDA has been performed on the dataset in Python and R to better understand the data we are working with.
+[This notebook](https://github.com/UBC-MDS/525_group17/blob/main/notebooks/Milestone1.ipynb) contains code to load and combine data. Simple EDA has been performed on the dataset in Python and R to better understand the data we are working with.
 
 # Contributors
 This project was created by DSCI 525 Group 17:
